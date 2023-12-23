@@ -1,2 +1,0 @@
-instalar: npm install express pg
-Abre tu navegador y visita `http://localhost:3000`
